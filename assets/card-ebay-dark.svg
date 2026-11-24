@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="156" viewBox="0 0 412 156" role="img" aria-label="eBay File Exchange Builder: Generates upload-ready eBay File Exchange CSVs for bulk and variation listings.">
+<defs><clipPath id="c"><rect width="412" height="156" rx="18"/></clipPath><radialGradient id="g" cx="100%" cy="0%" r="80%"><stop offset="0" stop-color="#34D399" stop-opacity="0.26"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient></defs>
+<g clip-path="url(#c)"><rect width="412" height="156" fill="#121A26"/><rect width="412" height="156" fill="url(#g)"/><rect width="412" height="5" fill="#34D399"/></g>
+<rect x="0.5" y="0.5" width="411" height="155" rx="18" fill="none" stroke="#27313F"/>
+<text x="24" y="40" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="600" letter-spacing="1.6" fill="#34D399">EBAY / WEB TOOL</text>
+<text x="24" y="64" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="-0.3" fill="#F0F6FC">eBay File Exchange Builder</text>
+<text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9AA7B5"><tspan x="24" y="93">Generates upload-ready eBay File Exchange</tspan><tspan x="24" y="112">CSVs for bulk and variation listings.</tspan></text>
+<text x="24" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="0.6" fill="#9AA7B5">HTML  ·  JAVASCRIPT  ·  IN DEVELOPMENT</text>
+</svg>
